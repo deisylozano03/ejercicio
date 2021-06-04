@@ -1,0 +1,12 @@
+com/theinternet/herokuapp/com/automation/steps/LatitudeStep.java
+ com.theinternet.herokuapp.com.automation.steps.LatitudeStep
+com/theinternet/herokuapp/com/automation/pageobjects/LatitudePage.java
+ com.theinternet.herokuapp.com.automation.pageobjects.LatitudePage
+com/theinternet/herokuapp/com/automation/pageobjects/GeolocationPage.java
+ com.theinternet.herokuapp.com.automation.pageobjects.GeolocationPage
+com/theinternet/herokuapp/com/automation/pageobjects/HomePage.java
+ com.theinternet.herokuapp.com.automation.pageobjects.HomePage
+com/theinternet/herokuapp/com/automation/steps/HomeStep.java
+ com.theinternet.herokuapp.com.automation.steps.HomeStep
+com/theinternet/herokuapp/com/automation/steps/GeolocationStep.java
+ com.theinternet.herokuapp.com.automation.steps.GeolocationStep
